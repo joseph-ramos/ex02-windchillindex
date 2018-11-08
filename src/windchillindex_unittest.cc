@@ -57,6 +57,7 @@ using edu::vcccd::vc::csv13::computeWindChillIndex;
 using std::istringstream;
 using std::ostringstream;
 using std::string;
+typedef uint32_t uint;
 
 using namespace ::testing_internal;
 

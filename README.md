@@ -120,13 +120,13 @@ see the output of running these tests. It should look something
 like this:
 
 ```bash
+[ RUN      ] WindChillIndexTest.Basic
+[       OK ] WindChillIndexTest.Basic (0 ms)
 /home/aknight/xormasters/ex02-windchillindex/cmake-build-debug/bin/WindChillIndex_GTest
 Running main() from gtest_main.cc
 [==========] Running 2 tests from 1 test case.
 [----------] Global test environment set-up.
 [----------] 2 tests from WindChillIndexTest
-[ RUN      ] WindChillIndexTest.Basic
-[       OK ] WindChillIndexTest.Basic (0 ms)
 [ RUN      ] WindChillIndexTest.TemperatureOutOfRange
 [       OK ] WindChillIndexTest.TemperatureOutOfRange (0 ms)
 
